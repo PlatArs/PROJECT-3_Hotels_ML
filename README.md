@@ -1,1 +1,1 @@
-# PROJECT-3. Hotels EDA, Future Egeneering and
+# PROJECT-3. Hotels EDA, Future Egeneering and Machine Learning
