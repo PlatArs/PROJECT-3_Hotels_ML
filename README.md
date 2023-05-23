@@ -1,1 +1,1 @@
-# PROJECT-3_Hotels_ML
+# PROJECT-3. Hotels_ML
