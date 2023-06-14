@@ -7,9 +7,9 @@ Make a model that predicts the rating of the hotel
 
 ### ***Dataset Description:***
 
-hotels_train.csv - training dataset
-hotels_test.csv - a set of data for assessing the quality
-of submission.csv - a submission file in the desired format
+hotels_train.csv - training dataset  
+hotels_test.csv - a set of data for assessing the quality  
+of submission.csv - a submission file in the desired format  
 
 ### ***Features:***
 hotel_address - the address of the hotel
