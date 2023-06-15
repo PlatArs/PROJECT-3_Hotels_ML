@@ -1,6 +1,7 @@
 # PROJECT-3. Hotels EDA, Future Egeneering and Machine Learning  
-The main code is [here](https://github.com/PlatArs/PROJECT-3_Hotels_ML/blob/master/Project_3_hotel-reviews-by-platars.ipynb)
-
+[The main code is here](https://github.com/PlatArs/PROJECT-3_Hotels_ML/blob/master/Project_3_hotel-reviews-by-platars.ipynb)
+[This is a Competition from Kaggle link is here](https://www.kaggle.com/competitions/sf-booking)
+[And this is my code for Kaggle](https://www.kaggle.com/code/arseniiplatonov/hotel-reviews-by-platars)
 ### ***Problem:***
 You work as a data scientist at a Booking.com company. One of the company's problems is dishonest hotels that wind up rating themselves. One of the ways to find such hotels is to build a model that predicts the rating of the hotel. If the model's predictions are very different from the actual result, then perhaps the hotel is playing dishonestly, and it is worth checking.
 
