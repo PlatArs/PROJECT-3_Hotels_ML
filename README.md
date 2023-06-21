@@ -1,5 +1,5 @@
 # PROJECT-3. Hotels EDA, Future Egeneering and Machine Learning  
-[My finished work is here](https://github.com/PlatArs/PROJECT-3_Hotels_ML/blob/master/Project_3_hotel-reviews-by-platars.ipynb)  
+[My solution is here](https://github.com/PlatArs/PROJECT-3_Hotels_ML/blob/master/Project_3_hotel-reviews-by-platars.ipynb)  
 [This is a Competition from Kaggle](https://www.kaggle.com/competitions/sf-booking)  
 [And this is my code for the Competition](https://www.kaggle.com/code/arseniiplatonov/hotel-reviews-by-platars)  
 ### ***Problem:***
